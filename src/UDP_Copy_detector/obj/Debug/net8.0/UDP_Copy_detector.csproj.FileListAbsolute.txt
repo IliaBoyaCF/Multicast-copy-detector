@@ -1,0 +1,14 @@
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\bin\Debug\net8.0\UDP_Copy_detector.exe
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\bin\Debug\net8.0\UDP_Copy_detector.deps.json
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\bin\Debug\net8.0\UDP_Copy_detector.runtimeconfig.json
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\bin\Debug\net8.0\UDP_Copy_detector.dll
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\bin\Debug\net8.0\UDP_Copy_detector.pdb
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.AssemblyInfoInputs.cache
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.AssemblyInfo.cs
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.csproj.CoreCompileInputs.cache
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.dll
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\refint\UDP_Copy_detector.dll
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.pdb
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\UDP_Copy_detector.genruntimeconfig.cache
+D:\IDE Projects\VisualStudio\UDP_Copy_detector\UDP_Copy_detector\obj\Debug\net8.0\ref\UDP_Copy_detector.dll
